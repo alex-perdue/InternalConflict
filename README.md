@@ -1,6 +1,6 @@
 ## THE POLITICS OF INTERNAL CONFLICT
 
-These are course materials for my course on contentious politics at the national and subnational levels entitled The Politics of Internal Conflict. They were originally created for PLSC 389U, taught through in spring 2027 at Binghamton University.  As these are my first lecture slides and this is the first lecture course I am likely to repeat, I wanted to put my materials here. However, you, reader who is not alex-perdue, are more than welcome to take some/all of this, provided you attribute it to me.
+These are course materials for my course on contentious politics at the national and subnational levels entitled The Politics of Internal Conflict. They were originally created for PLSC 389U, taught through in spring 2027 at Binghamton University.  As these are my first lecture slides and this is the first lecture course I am likely to repeat, I wanted to put my materials here. However, you, reader who is not alex-perdue, are more than welcome to take some/all of this, provided you follow the terms of the [CC BY-NC-SA 4.0](LICENSE). Any images I use, or may use, by third parties or university-required boilerplate in the Syllabus are excluded.
 
 ## Contents
 
